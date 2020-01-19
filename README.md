@@ -15,7 +15,9 @@ The algorithm is very similar in principle to green screening. But unlike green 
 
 ## Requirement
 1.Python(3)
+
 2.Numpy
+
 3.OpenCV
 
 ## How to run the code
